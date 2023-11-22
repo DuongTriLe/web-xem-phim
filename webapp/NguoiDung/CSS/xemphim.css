@@ -1,0 +1,53 @@
+.headerXemPhim{
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+.TieuDePhim h1{
+    color: rgb(198, 103, 31);
+}
+.ThongTinPhimItem p{
+    color: white;
+    margin-bottom: 0;
+    padding-bottom: 10px;
+}
+
+.aa{
+  
+    background-color: whitesmoke;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: center;
+   
+}
+
+.ChonTapPhim h3,h4{
+    color: white;
+}
+
+.ChonTapPhim .btn{
+    background-color: #3898ec;
+    width: 70px;
+    height: 35px;
+    border-radius: 20px;
+    color: white;
+    margin-right: 5px
+}
+
+.ChonTapPhim .btn:hover{
+    background-color: #e0a80b;
+    color: white;
+}
+.cacTapPhim{
+    margin-bottom: 20px;
+}
+
+.CanhBao{
+    border: 1px solid #e0a80b;
+    color: white;
+    padding: 10px 0px;
+}
+
+.CanhBao p{
+    margin: 0;
+}
